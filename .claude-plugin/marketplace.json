@@ -1,0 +1,22 @@
+{
+  "name": "swim2sun-plugins",
+  "owner": {
+    "name": "Xiangyang",
+    "email": "xiangyangyou@gmail.com"
+  },
+  "metadata": {
+    "description": "Claude Code plugins by swim2sun"
+  },
+  "plugins": [
+    {
+      "name": "wechat",
+      "source": {
+        "source": "github",
+        "repo": "swim2sun/claude-code-wechat"
+      },
+      "description": "WeChat channel for Claude Code — bridge WeChat messages via iLink Bot API with media support",
+      "version": "0.1.0",
+      "keywords": ["wechat", "weixin", "messaging", "channel"]
+    }
+  ]
+}
