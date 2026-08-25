@@ -16,7 +16,28 @@
       },
       "description": "WeChat channel for Claude Code — bridge WeChat messages via iLink Bot API with media support",
       "version": "0.1.0",
-      "keywords": ["wechat", "weixin", "messaging", "channel"]
+      "keywords": [
+        "wechat",
+        "weixin",
+        "messaging",
+        "channel"
+      ]
+    },
+    {
+      "name": "paca",
+      "source": {
+        "source": "github",
+        "repo": "swim2sun/claude-code-paca"
+      },
+      "description": "Paca channel for Claude Code — connect a persistent session to a Paca acp-type agent (tasks, @mentions, chat) and act via the Paca MCP tools",
+      "version": "0.1.0",
+      "keywords": [
+        "paca",
+        "project-management",
+        "agent",
+        "channel",
+        "mcp"
+      ]
     }
   ]
 }
